@@ -1,0 +1,74 @@
+  header {
+    background-color: blanchedalmond;
+  }   
+  footer {
+    background-color: crimson;
+  }   
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            width: 25%; 
+            height: 100px; 
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        
+        #cel1 {
+            background-color: red;
+        }
+
+        #cel2 {
+            background-color: blue;
+        }
+
+        #cel3 {
+            background-color: green;
+        }
+
+        #cel4 {
+            background-color: yellow;
+        }
+
+        #cel5 {
+            background-color: orange;
+        }
+
+        #cel6 {
+            background-color: purple;
+        }
+
+        #cel7 {
+            background-color: pink;
+        }
+
+        #cel8 {
+            background-color: brown;
+        }
+        #cel9 {
+            background-color: grey;
+        }
+        #cel10 {
+            background-color: beige;
+        }
+        #cel11 {
+            background-color: blueviolet;
+        }
+        #cel12 {
+            background-color: aquamarine;
+        }
+        #cel13 {
+            background-color: gold;
+        }
+        #cel14 {
+            background-color: darkturquoise;
+        }
+        #cel15 {
+            background-color: darkorange;
+        }
+        #cel16 {
+            background-color: darkorchid;
+        }
